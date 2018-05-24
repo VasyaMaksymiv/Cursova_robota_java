@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Напоминалка</string>
+    <string name="task_date">Дата</string>
+    <string name="app_title">Напоминалка</string>
+    <string name="current_task">Текущие</string>
+    <string name="done_task">Выполненные</string>
+    <string name="separator_overdue">Прошедшие</string>
+    <string name="removed">Удалено</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_ok">ОК</string>
+    <string name="task_time">Время</string>
+    <string name="task_title">Заголовок</string>
+    <string name="separator_today">Сегодня</string>
+    <string name="separator_tomorrow">Завтра</string>
+    <string name="separator_future">Задачи на будущее</string>
+    <string name="dialog_title">Добавление задачи</string>
+    <string name="dont_show_splash">Не показывать заставку</string>
+    <string name="dialog_error_empty_title">Пожалуйста, введите заголовок задачи</string>
+    <string name="dialog_editing_title">Изменить задачу</string>
+    <string name="dialog_removing_message">Вы действительно хотите удалить эту задачу ? </string>
+
+    <string-array name="priority_levels">
+        <item>Низкий приоритет</item>
+        <item>Обычный приоритет</item>
+        <item>Высокий приоритет</item>
+    </string-array>
+</resources>
